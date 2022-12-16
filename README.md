@@ -11,10 +11,10 @@
 <p align="center"> <a href="https://michaelx626.github.io/Journey-As-A-Developer/assets/index.html" target="_blank"> Here </a> </p>
 
 <h2 align="center"> Screenshots </h2>
-<p align="center"> <a href="https://michaelx626.github.io/Journey-As-A-Developer/assets/index.html"><img src="./Images/Screenshot Dev Portfolio.png" alt="A screenshot of my dev portfolio"></a>
+<a href="https://michaelx626.github.io/Journey-As-A-Developer/assets/index.html"><img src="./Images/Screenshot Dev Portfolio.png" alt="My Dev Portfolio"></a>
 
 <h2 align="center">  Credit </h2>
-<p align="center"> Special thanks to this [webpage](https://getbootstrap.com/docs/5.2/layout/breakpoints/) in helping me figure out what pixel to use for media queries on mobile phones.
+<p align="center"> Special thanks to this <a href="https://getbootstrap.com/docs/5.2/layout/breakpoints/" target="_blank"> webpage </a> in helping me figure out what pixel to use for media queries on mobile phones.
 
 <h2 align="center"> Licenses </h2>
 <p align="center"> Copyright (c) 2022 Michael Lin </p>
