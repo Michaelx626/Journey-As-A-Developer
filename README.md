@@ -7,7 +7,7 @@
 <p align="center"> N/A </p>
 
 <h2 align="center"> Usage </h2>
-You can access my dev portfolio by simply clicking on this highlighted text [here]https://michaelx626.github.io/Journey-As-A-Developer/assets/index.html. 
+You can access my dev portfolio by simply clicking on this highlighted text [here](https://michaelx626.github.io/Journey-As-A-Developer/assets/index.html). 
 
 <h2 align="center"> Screenshots </h2>
 <p align="center"> ![Here is the screenshot of my dev portfolio](https://michaelx626.github.io/Journey-As-A-Developer/assets/index.html). </p>
