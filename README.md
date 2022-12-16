@@ -11,7 +11,8 @@
 <p align="center"> <a href="https://michaelx626.github.io/Journey-As-A-Developer/assets/index.html" target="_blank"> Here </a> </p>
 
 <h2 align="center"> Screenshots </h2>
-<a href="https://michaelx626.github.io/Journey-As-A-Developer/assets/index.html"><img src="./Images/Screenshot Dev Portfolio.png" alt="My Dev Portfolio"></a>
+
+![text](https://github.com/Michaelx626/Journey-As-A-Developer/blob/main/assets/Images/Screenshot%20Dev%20Portfolio.png).
 
 <h2 align="center">  Credit </h2>
 <p align="center"> Special thanks to this <a href="https://getbootstrap.com/docs/5.2/layout/breakpoints/" target="_blank"> webpage </a> in helping me figure out what pixel to use for media queries on mobile phones.
