@@ -7,11 +7,12 @@
 <p align="center"> N/A </p>
 
 <h2 align="center"> Usage </h2>
-You can access my dev portfolio by simply clicking on this highlighted text, [here](https://michaelx626.github.io/Journey-As-A-Developer/assets/index.html).
+<p align="center"> You can access my dev portfolio by simply clicking on this highlighted text [here](https://michaelx626.github.io/Journey-As-A-Developer/assets/index.html). </p>
 
 <h2 align="center"> Screenshots </h2>
 
 <h2 align="center">  Credit </h2>
+<p align="center"> Special thanks to this [webpage](https://getbootstrap.com/docs/5.2/layout/breakpoints/) in helping me figure out what pixel to use for media queries on mobile phones.
 
 <h2 align="center"> Licenses </h2>
 <p align="center"> Copyright (c) 2022 Michael Lin </p>
