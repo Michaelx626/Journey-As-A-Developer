@@ -71,14 +71,18 @@ header ul li:hover{
     padding-bottom: 2%;
 }
 
-.image-container a {
-    display: block;
-    padding-left: 20%;
+.image-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
 }
 
-.image-container a img{
-    width: 75%;
-    height: auto;
+.image-container a{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
 }
 
 footer{
@@ -90,5 +94,13 @@ footer{
 @media screen and (min-width: 576px) {
     header ul {
         flex-direction: row;
+    }
+}
+
+@media screen and (min-width: 576px){
+    .image-container a img {
+        display: flex;
+        flex-direction: column;
+        width: 50%;
     }
 }
